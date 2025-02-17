@@ -1,8 +1,15 @@
 
 
-body{font: normal 1em Veranda; width: 70%; margin: 1em auto;} 
+body{
+    background-color: rgba(170, 170, 130, 0.4 );
+    font: normal 1.2em Veranda, sans-serif; width: 70%; margin: 1em auto;    
+} 
 
 
 h1{
     align: center;
+}
+
+p{
+    text-indent: 50px;
 }
