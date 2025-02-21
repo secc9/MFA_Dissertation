@@ -1,8 +1,9 @@
 
 
 body{
-    background-color: rgba(170, 170, 130, 0.4 );
-    font: normal 1.2em Veranda, sans-serif; width: 70%; margin: 1em auto;    
+    background-color: rgba(128, 0, 128, 0.4 );
+    font: normal 1.2em Veranda, sans-serif; width: 70%; margin: 1em auto;
+    line-height: 1.5em;
 } 
 
 
