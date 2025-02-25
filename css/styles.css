@@ -1,7 +1,5 @@
 
 
-
-
 body{
     background-color: rgba(128, 0, 128, 0.4 );
     font: normal 12px Veranda, sans-serif;
@@ -30,3 +28,40 @@ h3{
 p{
     text-indent: 50px;
 }
+
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+
+
+#footnotes {
+  font-size: 0.9em;
+  margin-top: 2rem;
+}
+
+#footnotes ol {
+  padding-left: 1.5rem;
+}
+
+#footnotes li {
+  margin-bottom: 0.5rem;
+}
+
+sup a {
+  text-decoration: none;
+  color: blue;
+}
+
+.backlink {
+  text-decoration: none;
+  margin-left: 5px;
+}
+
+
+
