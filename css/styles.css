@@ -1,8 +1,10 @@
 
 
+/*Main body css */
+
 body{
     background-color: rgba(128, 0, 128, 0.4 );
-    font: normal 12px Veranda, sans-serif;
+    font: normal 15px Veranda, sans-serif;
     width: 70%;
     margin: 1em auto;
     line-height: 2em;
@@ -39,6 +41,7 @@ html {
 
 
 
+/*footnotes*/
 
 #footnotes {
   font-size: 0.9em;
