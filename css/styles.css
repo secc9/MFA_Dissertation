@@ -70,3 +70,19 @@ sup a {
 
 
 
+
+
+
+/* images*/
+
+.dedomenici {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.imageText {
+    text-align: center;
+    font-size: 10px
+}
