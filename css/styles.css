@@ -82,6 +82,12 @@ sup a {
     width: 50%;
 }
 
+.skip {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
 
 .imageText {
     text-align: center;
