@@ -88,6 +88,12 @@ sup a {
     margin-right: auto;
     width: 70%;
 }
+.bath {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
 
 .imageText {
     text-align: center;
