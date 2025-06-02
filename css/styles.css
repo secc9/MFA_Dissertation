@@ -3,7 +3,7 @@
 /*Main body css */
 
 body{
-    background-color: rgba(128, 0, 128, 0.4 );
+    background-color: rgba(200, 200, 200, 0.4 );
     font: normal 17px Veranda, sans-serif;
     width: 70%;
     margin: 1em auto;
@@ -25,12 +25,13 @@ h2{
 
 h3{
     text-align: center;
-    font-size: 15px;
+
 }
 
 
 p{
     text-indent: 50px;
+    font-size: 12px;
 }
 
 
@@ -46,8 +47,8 @@ html {
 /*footnotes*/
 
 #footnotes {
-  font-size: 14px;
-  margin-top: 2rem;
+    font: normal 10px Veranda, sans-serif;
+    margin-top: 2rem;
 }
 
 #footnotes ol {
