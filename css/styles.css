@@ -34,7 +34,13 @@ p{
     font-size: 12px;
 }
 
-
+blockquote{
+    font: normal 12px Veranda, sans-serif;
+        width: 70%;
+    margin: 1em auto;
+     line-height: 2em;
+    
+}
 
 
 html {
@@ -96,7 +102,9 @@ sup a {
     width: 80%;
 }
 
-.imageText {
+
+.gramText {
     text-align: center;
-    font-size: 15px
+    justify: center;
+    font-size: 12px
 }
