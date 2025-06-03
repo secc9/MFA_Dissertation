@@ -103,6 +103,12 @@ sup a {
 }
 
 
+.imageText {
+    text-align: center;
+    justify: center;
+    font-size: 12px
+}
+
 .gramText {
     text-align: center;
     justify: center;
